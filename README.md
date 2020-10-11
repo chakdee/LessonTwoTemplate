@@ -15,7 +15,7 @@ git clone <url до репозитория с заданием> LessonTwo
 cd LessonTwo
 ```
 
-После создаем ветку `develop` и делаем ее текущей в репозитории:
+После, создаем ветку `develop` и делаем ее текущей в репозитории:
 
 ```bash
 git branch develop
